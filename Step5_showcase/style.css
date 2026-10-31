@@ -36,7 +36,6 @@ footer {
     border: 1px solid black;
 }
 
-/* ===== Barre de navigation ===== */
 .main-nav {
     display: flex;
     align-items: center;
@@ -72,7 +71,7 @@ footer {
     margin-left: 20px;
 }
 
-/* ===== Showcase ===== */
+
 .showcase {
     width: 100%;
     height: 400px;
@@ -102,7 +101,6 @@ footer {
     margin-top: 20px;
 }
 
-/* ===== Bouton ===== */
 .btn {
     display: inline-block;
     background-color: #378ff5;
@@ -116,7 +114,6 @@ footer {
     opacity: 0.9;
 }
 
-/* ===== Version sombre ===== */
 .dark {
     color: #fff;
 }
@@ -126,7 +123,7 @@ footer {
     color: #333;
 }
 
-/* ===== Les autres blocs ===== */
+
 .home-cards, .ruban, .follow, .links, .sub-footer, #bigData-intro {
     background-color: #d3eaac;
     width: 100%;
