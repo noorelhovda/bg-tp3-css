@@ -36,7 +36,7 @@ footer {
     border: 1px solid black;
 }
 
-/* ===== Barre de navigation ===== */
+
 .main-nav {
     display: flex;
     align-items: center;
@@ -102,7 +102,7 @@ footer {
     margin-top: 20px;
 }
 
-/* ===== Bouton ===== */
+
 .btn {
     display: inline-block;
     background-color: #378ff5;
@@ -116,7 +116,7 @@ footer {
     opacity: 0.9;
 }
 
-/* ===== Version sombre ===== */
+
 .dark {
     color: #fff;
 }
@@ -126,7 +126,7 @@ footer {
     color: #333;
 }
 
-/* ===== Home cards ===== */
+
 .home-cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
